@@ -22,7 +22,7 @@ I am interested in automatic music score arrangement, symbolic music generation 
 - Symbolic Music generation
 
 ## Education
-- :fa-graduation-cap: B.Informatics in Computer Science, 2023, Nagoya University(expected)
+- :fontawesome-solid-graduation-cap: B.Informatics in Computer Science, 2023, Nagoya University(expected)
 
 
 ## Links
