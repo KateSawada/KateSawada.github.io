@@ -6,7 +6,7 @@ title: KateSawada
 
 <img src="/images/profile.png" width="300px">
 
-# About me
+# [About me](about.md)
 
 I am a bachelor student at Nagoya University, School of Informatics, Computer Science, working with [Toda Tomoki - sensei](https://sites.google.com/site/tomokitoda/){:target="_blank"} at the [Toda Laboratory](https://www.toda.is.i.nagoya-u.ac.jp){:target="_blank"}.  
 I work a part-time job as a software engineer or technical supporter at Nagoya University and some companies.
