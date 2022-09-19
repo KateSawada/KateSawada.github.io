@@ -1,0 +1,32 @@
+theme:
+    name: material
+    palette:
+        primary: teal
+        accent: amber
+    logo: assets/logo.png
+    favicon: assets/logo.png
+site_name: KateSawada's Portfolio
+nav:
+    - Home: 'index.md'
+    - About me: 'about.md'
+    - Skills: 'skills.md'
+    - Talks:
+        - Talks: 'Talks/index.md'
+extra_css:
+    - "//fonts.googleapis.com/earlyaccess/notosansjp.css"
+    - "//fonts.googleapis.com/css?family=Open+Sans:600,800"
+    - "css/custom.css"
+    - "https://use.fontawesome.com/releases/v5.14.0/css/all.css"
+markdown_extensions:
+    - attr_list
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
+    - pymdownx.superfences:
+        custom_fences:
+            - name: mermaid
+            - class: mermaid
+            - format: !!python/name:pymdownx.superfences.fence_code_format
+    - fontawesome_markdown
+
+copyright: Copyright &copy; 2022 - KateSawada
