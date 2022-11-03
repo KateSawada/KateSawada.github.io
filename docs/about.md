@@ -20,7 +20,7 @@ I am interested in automatic music score arrangement, symbolic music generation 
 ## History
 - :fontawesome-solid-right-to-bracket: 2019.4 名古屋大学 情報学部 コンピュータ科学科 入学
 
-| period | Event |
+| Period | Event |
 |--|--|
 | 2020.1 - 2021.3 | 株式会社キャリアビジョン アルバイト<br>社内向けツール作成 |
 | 2021.4 - 2022.3 | 名古屋大学 空手同好会 主将 |
@@ -31,7 +31,7 @@ I am interested in automatic music score arrangement, symbolic music generation 
 
 ## Awards
 
-| date | award |
+| Date | Award |
 |--|--|
 | 2021.6 | Tongaliビジネスプランコンテスト2021 チームSnitch 大和証券賞 |
 |2021.8 | お盆deハッカソン 協賛企業賞|
