@@ -10,8 +10,8 @@ nav:
     - Home: 'index.md'
     - About me: 'about.md'
     - Skills: 'skills.md'
-    - Talks:
-        - Talks: 'Talks/index.md'
+    - Research: 'research.md'
+    - Talks: 'talks.md'
 extra_css:
     - "//fonts.googleapis.com/earlyaccess/notosansjp.css"
     - "//fonts.googleapis.com/css?family=Open+Sans:600,800"
