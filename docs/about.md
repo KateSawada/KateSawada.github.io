@@ -17,8 +17,8 @@ I am interested in automatic music score arrangement, symbolic music generation 
 ## Education
 
 - :fontawesome-solid-graduation-cap: 2019.3 愛知県立時習館高校 卒業
-- :fontawesome-solid-right-to-bracket: 2019.4 名古屋大学 情報学部 コンピュータ科学科 入学
 ## History
+- :fontawesome-solid-right-to-bracket: 2019.4 名古屋大学 情報学部 コンピュータ科学科 入学
 
 | period | Event |
 |--|--|
