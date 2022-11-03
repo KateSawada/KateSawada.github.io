@@ -7,8 +7,9 @@ title: Skills
 ## <img src="/images/icons/python.svg" width="20"> Python(advanced) 2019~
 - 機械学習など
     - numpy
+    - pytorch
     - tensorflow/keras
-- Web系
+- Webアプリケーション関連
     - flask
     - sqlalchemy
 
