@@ -22,7 +22,7 @@ title: Skills
 
 
 ## <img src="/images/icons/c-sharp.svg" width="20"> C#/ <img src="/images/icons/unity.svg" width="20"> Unity(intermediate) 2020~
-- 趣味開発レベル
+- システム部分の実務レベルでの開発
 
 ## <img src="/images/icons/dart.svg" width="20"> Dart / <img src="/images/icons/flutter.svg" width="20"> flutter(intermediate) 2021~
 - iOS/iPadOS native application
