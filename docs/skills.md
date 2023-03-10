@@ -27,7 +27,7 @@ title: Skills
 ## <img src="/images/icons/dart.svg" width="20"> Dart / <img src="/images/icons/flutter.svg" width="20"> flutter(intermediate) 2021~
 - iOS/iPadOS native application
 
-## <img src="/images/icons/azure.svg" width="20"> Azure(beginner)2022~
+## <img src="/images/icons/azure.svg" width="20"> Azure(intermediate)2022~
 - Azure上でのWebアプリケーションデプロイ
 
 ## <img src="/images/icons/c.svg" width="20"> C/C++(beginner) 2019~
