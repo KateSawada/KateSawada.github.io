@@ -4,23 +4,26 @@ title: About Me
 
 # About Me
 
-名古屋大学情報学部コンピュータ科学科 B4 戸田研究室所属．  
+名古屋大学 情報学研究科 知能システム学専攻 M1 戸田研究室所属．  
 東海国立大学機構 情報環境部やIT企業にて技術補佐員や情報システム部門の業務に従事．
 
 自動楽譜アレンジ・作成，機械学習などに興味があります．
 
-I am a bachelor student at Nagoya University, School of Informatics, Computer Science, working with [Toda Tomoki - sensei](https://sites.google.com/site/tomokitoda/){:target="_blank"} at the [Toda Laboratory](https://www.toda.is.i.nagoya-u.ac.jp){:target="_blank"}.  
+I am a Master student at Nagoya University, Graduate School of Informatics, Department of Intelligent Systems, working with [Toda Tomoki - sensei](https://sites.google.com/site/tomokitoda/){:target="_blank"} at the [Toda Laboratory](https://www.toda.is.i.nagoya-u.ac.jp){:target="_blank"}.  
 I work a part-time job as a software engineer or technical supporter at Nagoya University and some companies.
 
 I am interested in automatic music score arrangement, symbolic music generation and machine learning.
 
 ## Education
 
-- :fontawesome-solid-graduation-cap: 2019.3 愛知県立時習館高校 卒業
-## History
-- :fontawesome-solid-right-to-bracket: 2019.4 名古屋大学 情報学部 コンピュータ科学科 入学
+- :fontawesome-solid-graduation-cap: 2019.3 愛知県立時習館高校 卒業<br>Graduated Aichi Pref. Jishukan highschool
+- :fontawesome-solid-right-to-bracket: 2019.4 名古屋大学 情報学部 コンピュータ科学科 入学<br>Entered Nagoya University, School of Informatics, Department of Computer Science
+- :fontawesome-solid-graduation-cap: 2023.3 名古屋大学 情報学部 コンピュータ科学科 卒業(GPA: 3.99 / 4.30)<br>Graduated Nagoya University, School of Informatics, Department of Computer Science
+- :fontawesome-solid-right-to-bracket: 2023.4 名古屋大学 情報学研究科 知能システム学専攻 入学<br>Entered Nagoya University, Graduated School of Informatics, Department of Intelligent Systems
 
-| Period | Event |
+## History
+
+| Date | Event |
 |--|--|
 | 2020.1 - 2021.3 | 株式会社キャリアビジョン アルバイト<br>社内向けツール作成 |
 | 2021.4 - 2022.3 | 名古屋大学 空手同好会 主将 |
