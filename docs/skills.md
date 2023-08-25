@@ -31,4 +31,4 @@ title: Skills
 - Azure上でのWebアプリケーションデプロイ
 
 ## <img src="/images/icons/c.svg" width="20"> C/C++(beginner) 2019~
-- 基本的なアルゴリズムを実装できる程度
+- オブジェクト指向に則って基本的なアルゴリズムを実装できる程度
