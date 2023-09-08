@@ -9,10 +9,10 @@ title: Talks
 ### 7/14 アプリ開発団体jack LT会
 「深層学習を用いたピアノ自動採譜技術」というタイトルで，
 
-- Hawthorne et al. " Onsets and Frames:  Dual-Objective Piano Transcription". 2018, https://arxiv.org/abs/1710.11153
-- Kong et al. " High-resolution Piano Transcription with Pedals by Regressing Onset and Offset Times". 2020, https://arxiv.org/abs/2010.01815
-- Hawthorne et al. " SEQUENCE-TO-SEQUENCE PIANO TRANSCRIPTION WITH TRANSFORMERS ". 2020, https://arxiv.org/abs/2010.01815
-- Cheuk et al. " DiffRoll: Diffusion-based Generative Music Transcription with Unsupervised Pretraining Capability". 2022, https://arxiv.org/abs/2210.05148
+- Hawthorne et al. " Onsets and Frames:  Dual-Objective Piano Transcription". 2018, [https://arxiv.org/abs/1710.11153](https://arxiv.org/abs/1710.11153)
+- Kong et al. " High-resolution Piano Transcription with Pedals by Regressing Onset and Offset Times". 2020, [https://arxiv.org/abs/2010.01815](https://arxiv.org/abs/2010.01815)
+- Hawthorne et al. " SEQUENCE-TO-SEQUENCE PIANO TRANSCRIPTION WITH TRANSFORMERS ". 2020, [https://arxiv.org/abs/2111.03017](https://arxiv.org/abs/2111.03017)
+- Cheuk et al. " DiffRoll: Diffusion-based Generative Music Transcription with Unsupervised Pretraining Capability". 2022, [https://arxiv.org/abs/2210.05148](https://arxiv.org/abs/2210.05148)
 
 の4つの手法を取り上げました．
 質疑応答を含めて8分間のLTでしたが，機械学習に詳しくない人も多かったため技術的な詳細は軽めに，この分野の概観とデモを中心に発表を行いました．
