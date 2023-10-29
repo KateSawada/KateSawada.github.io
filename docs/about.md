@@ -41,6 +41,7 @@ I am interested in automatic music score arrangement, symbolic music generation 
 |2021.8 | お盆deハッカソン 協賛企業賞|
 |2021.11 | JPHACKS2021 プラチナスポンサー賞 バンダイナムコ研究所賞|
 |2022.6 | Tongaliビジネスプランコンテスト2022 チームopen sesame 優秀賞 & 名古屋銀行賞 & 愛知県信用保証協会賞 |
+|2023.10 | JPHACKS2023 名古屋ブロック Best Hack Day Award |
 
 ## Hobbies
 
