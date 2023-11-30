@@ -24,7 +24,7 @@ I am interested in automatic music score arrangement, symbolic music generation 
 ## Education
 - :fontawesome-solid-graduation-cap: 2019.3 Graduated Aichi Pref. Jishukan highschool
 - :fontawesome-solid-graduation-cap: 2023.3 Graduated Nagoya University, School of Informatics, Department of Computer Science
-- :fontawesome-solid-graduation-cap: 2025.4(expected) Entered Nagoya University, Graduated School of Informatics, Department of Intelligent Systems
+- :fontawesome-solid-graduation-cap: 2025.3(expected) Graduating Nagoya University, Graduated School of Informatics, Department of Intelligent Systems
 
 ## Links
 - [:fontawesome-brands-github:GitHub](https://github.com/KateSawada){:target="_blank"}
