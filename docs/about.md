@@ -43,6 +43,7 @@ I am interested in automatic music score arrangement, symbolic music generation 
 |2022.6 | Tongaliビジネスプランコンテスト2022 チームopen sesame 優秀賞 & 名古屋銀行賞 & 愛知県信用保証協会賞 |
 |2023.10 | JPHACKS2023 名古屋ブロック Best Hack Day Award |
 |2023.11 | 第3回TMIシンポジウム ポスター発表 優秀賞 |
+|2024.08 | 第28回 東海地区音声関連研究室修士論文中間発表会（後援: 日本音響学会東海支部） 総合3位 |
 
 ## Hobbies
 
