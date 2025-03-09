@@ -4,6 +4,9 @@ title: Research Projects
 
 # Research Projects
 
+# Music Information Processing
+- **澤田桂都**, Wen-Chin Huang, 戸田智基, "大局的構造生成のための小節特徴量系列モデリングに基づく階層的自動作曲," 情報処理研報, Vol. 2025-MUS-142, No. 49, pp. 1-7, Mar. 2025. (口頭・査読無し， **学生奨励賞 Best Research部門受賞**)
+
 # LMS(Learning Management System Development in Nagoya University)
 - **澤田 桂都**, 山本 実央, 木迫 璃玖, 大平 茂輝, 後藤 明史, 戸田 智基, "名古屋大学における学生の利便性向上を目指したLMS連携システムの開発," 大学ICT推進協議会 2022年度年次大会, pp. 427-432, Dec. 2022. （口頭・査読無し）
 
