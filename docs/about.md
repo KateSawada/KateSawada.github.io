@@ -44,6 +44,7 @@ I am interested in automatic music score arrangement, symbolic music generation 
 |2023.10 | JPHACKS2023 名古屋ブロック Best Hack Day Award |
 |2023.11 | 第3回TMIシンポジウム ポスター発表 優秀賞 |
 |2024.08 | 第28回 東海地区音声関連研究室修士論文中間発表会（後援: 日本音響学会東海支部） 総合3位 |
+|2025.03 | 情報処理学会 第142回音楽情報処理研究発表 学生奨励賞 Best Research部門受賞 |
 
 ## Hobbies
 
