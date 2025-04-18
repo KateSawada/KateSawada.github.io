@@ -5,6 +5,7 @@ title: Research Projects
 # Research Projects
 
 # Music Information Processing
+- **澤田 桂都**, Wen-Chin Huang, 戸田 智基, "小節特徴量を活用した楽曲の大局的構造を反映した自動作曲," 日本音響学会講演論文集, 1-5-3, pp. 1201-1202, Mar. 2025. (口頭・査読無し)
 - **澤田桂都**, Wen-Chin Huang, 戸田智基, "大局的構造生成のための小節特徴量系列モデリングに基づく階層的自動作曲," 情報処理研報, Vol. 2025-MUS-142, No. 49, pp. 1-7, Mar. 2025. (口頭・査読無し， **学生奨励賞 Best Research部門受賞**)
 
 # LMS(Learning Management System Development in Nagoya University)
