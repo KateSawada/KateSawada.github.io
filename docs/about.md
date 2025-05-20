@@ -4,7 +4,7 @@ title: About Me
 
 # About Me
 
-名古屋大学 情報学研究科 知能システム学専攻 M2 戸田研究室所属．  
+名古屋大学 情報学研究科 知能システム学専攻 博士後期課程 戸田研究室所属．  
 東海国立大学機構 情報環境部やIT企業にて技術補佐員や情報システム部門の業務に従事．
 
 自動楽譜アレンジ・作成，機械学習などに興味があります．
@@ -19,7 +19,9 @@ I am interested in automatic music score arrangement, symbolic music generation 
 - :fontawesome-solid-graduation-cap: 2019.3 愛知県立時習館高校 卒業<br>Graduated Aichi Pref. Jishukan highschool
 - :fontawesome-solid-right-to-bracket: 2019.4 名古屋大学 情報学部 コンピュータ科学科 入学<br>Entered Nagoya University, School of Informatics, Department of Computer Science
 - :fontawesome-solid-graduation-cap: 2023.3 名古屋大学 情報学部 コンピュータ科学科 卒業(GPA: 3.99 / 4.30)<br>Graduated Nagoya University, School of Informatics, Department of Computer Science
-- :fontawesome-solid-right-to-bracket: 2023.4 名古屋大学 情報学研究科 知能システム学専攻 入学<br>Entered Nagoya University, Graduated School of Informatics, Department of Intelligent Systems
+- :fontawesome-solid-right-to-bracket: 2023.4 名古屋大学 情報学研究科 知能システム学専攻 博士前期課程 入学<br>Entered Nagoya University, Graduated School of Informatics (Master course), Department of Intelligent Systems
+- :fontawesome-solid-graduation-cap: 2025.3 名古屋大学 情報学研究科 知能システム学専攻 博士前期課程 修了<br>Graduated Nagoya University, Graduated School of Informatics (Master course), Department of Intelligent Systems
+- :fontawesome-solid-right-to-bracket: 2025.4 名古屋大学 情報学研究科 知能システム学専攻 博士後期課程 入学<br>Entered Nagoya University, Graduated School of Informatics (Doctor course), Department of Intelligent Systems
 
 ## History
 
