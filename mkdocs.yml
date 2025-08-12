@@ -12,6 +12,7 @@ nav:
     - Skills: 'skills.md'
     - Research: 'research.md'
     - Talks: 'talks.md'
+    - Contact: 'contact.md'
 extra_css:
     - "//fonts.googleapis.com/earlyaccess/notosansjp.css"
     - "//fonts.googleapis.com/css?family=Open+Sans:600,800"
