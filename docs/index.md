@@ -8,7 +8,7 @@ title: KateSawada
 
 # [About me](about.md)
 
-I am a Doctor student at Nagoya University, Graduate School of Informatics, Department of Intelligent Systems, working with [Toda Tomoki - sensei](https://sites.google.com/site/tomokitoda/){:target="_blank"} at the [Toda Laboratory](https://www.toda.is.i.nagoya-u.ac.jp){:target="_blank"}.  
+I am a Ph.D. student at Nagoya University, Graduate School of Informatics, Department of Intelligent Systems, working with [Toda Tomoki - sensei](https://sites.google.com/site/tomokitoda/){:target="_blank"} at the [Toda Laboratory](https://www.toda.is.i.nagoya-u.ac.jp){:target="_blank"}.  
 I work a part-time job as a software engineer or technical supporter at Nagoya University and some companies.
 
 I am interested in automatic music score arrangement, symbolic music generation and machine learning.
