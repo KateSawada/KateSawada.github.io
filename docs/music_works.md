@@ -18,6 +18,11 @@ title: Music Works
 
 <a href="/music_works/Galop_infernal_8hands.pdf" target="_blank">楽譜</a>
 
+## 「ラデツキー行進曲」ピアノ1台8手編曲
+ヨハン・シュトラウス1世作曲
+
+<a href="/music_works/radetzkey_8hands.pdf" target="_blank">楽譜</a>
+
 ---
 
 # ライセンス / License
