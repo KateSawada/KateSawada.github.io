@@ -16,6 +16,8 @@ title: Research Projects
 - **澤田 桂都**, 山本 実央, 木迫 璃玖, 大平 茂輝, 後藤 明史, 戸田 智基, "名古屋大学における学生の利便性向上を目指したLMS連携システムの開発," 大学ICT推進協議会 2022年度年次大会, pp. 427-432, Dec. 2022. （口頭・査読無し）
 
 # Medical-Engineering collaboration
+- **澤田桂都**, 坪井崇，渡邉咲南，樋口萌花，湯浅令子，植松高史，斎藤勇紀，福島大喜，玉腰大悟，平賀経太，鈴木将史，勝野雅央，"TremorKit：振戦の大規模定量解析のためのオープンソースソフトウェア"，第20回パーキンソン病・運動障害疾患コングレス，北海道，Jul. 2026（ポスター・査読有り）
+- 坪井崇，植松高史，**澤田桂都**，樋口萌花，橋田美紀，伊藤芳記，石崎友崇，津川隆彦，前澤聡，布施絢史郎，斎藤勇紀，福島大喜，玉腰大悟，平賀経太，鈴木将史，齋藤竜太，勝野雅央，"運動時・安静時の振戦振幅比較によるジストニア性振戦とパーキンソン病の鑑別診断"，第20回パーキンソン病・運動障害疾患コングレス，北海道，Jul. 2026（ポスター・査読有り）
 - Takashi Tsuboi, Takashi Uematsu, **Keito Sawada**, Moeka Higuchi, Miki Hashida, Manabu Muto, Yoshiaki Ito, Tomotaka Ishizaki, Sachiko Kato, Daisuke Nakatsubo, Takahiko Tsugawa, Satoshi Maesawa, Yuki Saito, Taiki Fukushima, Daigo Tamakoshi, Keita Hiraga, Masashi Suzuki, Ryuta Saito, Adolfo Ramirez-Zamora, Michael S. Okun, Masahisa Katsuno, "Determinants of clinical and neurophysiological features in essential tremor and essential tremor plus.", Journal of Neural Transmission, [https://doi.org/10.1007/s00702-025-02941-z](https://doi.org/10.1007/s00702-025-02941-z) （論文誌・査読あり）
 - Tsuboi T, Sawada K, Hoshino S, Higuchi M, Mutoh M, Torii J, Nakatsubo D, Maesawa S, Suzuki M, Sato M, Hiraga K, Satake Y, Yokoi K, Hattori M, Saito R, Katsuno M. 3D-accelerometry characteristics of essential tremor and dystonic tremor.  The International Congress of Parkinson's disease and movement disorders, Copenhagen, Denmark. August 2023. （ポスター・査読有り）
 - 坪井崇, **澤田桂都**, 星野聖奈, 樋口萌花, 武藤学, 伊藤芳記, 石﨑友崇, 種井隆文, 中坪大輔, 前澤聡, 鈴木将史, 佐藤茉紀, 玉腰大悟, 平賀経太, 佐竹勇紀, 齋藤竜太, 勝野雅央, "本態性振戦およびジストニア性振戦の9軸モーションセンサを用いた特徴抽出", 第64回日本神経学会学術大会, 千葉, May. 2023. （ポスター・査読有り）
